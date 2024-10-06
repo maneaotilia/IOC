@@ -1,0 +1,115 @@
+.principal {
+  color: #E9967A;
+  padding: 10px;
+  margin: 20px;
+  border-radius: 10px;
+}
+
+#titlu-principal {
+  font-size: 24px
+}
+
+h3 {
+  color: darkblue
+}
+
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  margin: 0;
+  pad: 0;
+  background-color: aliceblue;
+  color: #333;
+}
+
+header {
+  background-color: #8e7373;
+  color: #FFF;
+  text-align: center;
+  padding: 20px;
+}
+
+header a {
+  color: white;
+  margin: 0 10px;
+  text-decoration: none;
+  font-size: 25px;
+}
+
+header a:hover {
+  color: #cf8787;
+}
+
+nav {
+  background-color: #965353;
+  overflow: hidden;
+  align-items: stretch;
+}
+
+nav a {
+  float: left;
+  display: block;
+  padding: 15px;
+  color: white;
+  text-decoration: none;
+  text-align: center;
+}
+
+nav a:hover {
+  background-color: beige;
+  color: black;
+}
+
+footer {
+  text-align: center;
+  padding: 10px 0;
+  background-color: #965353;
+  overflow: hidden;
+  color: white;
+}
+
+.continut {
+  border-radius: 5px;
+  margin: 20px;
+  padding: 20px;
+  background-color: white;
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-top: 3%;
+  margin-bottom: 3%;
+}
+
+th, td {
+  padding: 10px;
+  text-align: center;
+  border: 1px solid #ddd;
+}
+
+th {
+  background-color: aliceblue;
+  color: darkblue;
+}
+
+button {
+  background-color: #8e7373;
+  color: white;
+  border: none;
+  padding: 10px 20px;
+  cursor: pointer;
+  border-radius: 5px;
+  margin-top: 20px;
+}
+
+button:hover {
+  background-color: #965353;
+}
+
+#ifr_logo {
+  display: block;
+  margin-bottom: 10px;
+  margin-left: auto;
+  margin-right: auto;
+  width: 100px;
+}
